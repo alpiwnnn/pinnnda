@@ -1,0 +1,40 @@
+@font-face {
+    font-family: syg;
+    src: url(WitcherHandwritingRegular-GO5vO.ttf);
+}
+
+.tbl-item {
+   
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #ddc1c1;
+    font-size: 30px;
+    font-family: 'syg';
+   
+    text-decoration: none;
+  
+  
+
+}
+body {
+    background-color: #633a3ac5; /
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; 
+    align-items: center; /* Mengatur teks ke tengah secara vertikal */
+    min-height: 100vh; /* Mengisi seluruh tinggi viewport */
+}
+h1 {
+    color: white; /* Warna teks putih */
+    text-align: center; /* Mengatur teks ke tengah secara horizontal */
+    font-family: 'syg';
+
+}
+h2 {
+    color: antiquewhite;
+     text-align: center; /* Mengatur teks ke tengah secara horizontal */
+    font-family: 'syg';
+    
+}
